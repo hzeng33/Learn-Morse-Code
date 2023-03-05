@@ -1,3 +1,12 @@
+# Morse Code Learning 
+This is a simple Morse Code learning app built using React. We built this web app for educational purpose. We would want people who might be interested in crytography
+to learn the Morse Code. It is also a nostalgia that Morse Code is a historic method of communication that was widely used in the past. 
+
+### Features
+- Our simple web app contains two parts:
+1. Morse Code converter. User can enter some English sentences in the "Input text" box, it would then be converted into Morse Code showing in the "Output Morse Code"    box.
+2. Simple Morse Code practice game. User can play with a simple practice game to practice writing Morse Code for each of the 26 English alphabets and the ten digits. If the user enters the Morse Code correctly, the user is notified and will score 1 point.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,11 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 

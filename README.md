@@ -1,6 +1,5 @@
 # Morse Code Learning 
-This is a simple Morse Code learning app built using React. We built this web app for educational purpose. We would want people who might be interested in crytography
-to learn the Morse Code. It is also a nostalgia that Morse Code is a historic method of communication that was widely used in the past. 
+This is a simple Morse Code learning app built using React. We built this web app for educational purpose. Students who are interested in crytography can learn the Morse Code by playing a practice game on the app. It is also a nostalgia that Morse Code is a historic method of communication that was widely used in the past. 
 
 ### Features
 - Our simple web app contains two parts:

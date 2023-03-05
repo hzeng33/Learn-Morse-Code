@@ -67,7 +67,7 @@ const MorseCodeGame = () => {
       setIsCorrect(true);
       setTimeout(() => {
         randomLetter();
-      }, 1000);
+      }, 500);
     } else {
       setIsCorrect(false);
     }

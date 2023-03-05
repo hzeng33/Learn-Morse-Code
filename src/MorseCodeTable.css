@@ -1,0 +1,40 @@
+.table{
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    max-width: 600px;
+    z-index: 100000;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    display: none;
+  }
+  
+  .morse-code-table-content {
+    max-height: 300px;
+    overflow-y: auto;
+  }  
+
+.table-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 100001;
+    background-color: tomato;
+    color: white;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .table-btn:hover {
+    background-color: #FF6347;
+  }
+  
+  .show-table {
+    display: block;
+  }
